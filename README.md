@@ -1,6 +1,6 @@
 # [Improved Multilingual Language Model Pretraining for Social Media Text via Translation Pair Prediction](https://aclanthology.org/2021.wnut-1.42/)
 
-[![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/twitter-research/multilingual-alignment-tpp) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/twitter-research/multilingual-alignment-tpp/HEAD) [![arXiv](https://img.shields.io/badge/arXiv-2110.10318-b31b1b.svg)](https://arxiv.org/abs/2110.10318)
+[![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/twitter-research/multilingual-alignment-tpp) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/twitter-research/multilingual-alignment-tpp/HEAD) [![arXiv](https://img.shields.io/badge/arXiv-2110.10318-b31b1b.svg)](https://arxiv.org/abs/2110.10318) [![Poster](https://img.shields.io/badge/Poster-WNUT2021-b31b1b.svg)](./WNUT_2021_Poster.pdf) [![Slides](https://img.shields.io/badge/Slides-WNUT2021-b31b1b.svg)](./WNUT_2021_Slides.pdf) ![YouTube Video Views](https://img.shields.io/youtube/views/VR9qke-IFig?style=social)
 
 ![image](multilingual_tpp.png)
 
